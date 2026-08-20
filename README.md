@@ -191,12 +191,4 @@ IoT-enabled baby monitoring system using environmental sensors and real-time ale
 <p align="center">
   <b>🚀 Build • 🔐 Secure • 🤖 Innovate • 💡 Learn</b>
 </p>
-<p align="center">
-  💡 Open to collaboration, projects, and learning opportunities.
-</p>
 
----
-
-<p align="center">
-  <b>🚀 Build • 🔐 Secure • 🤖 Innovate • 💡 Learn</b>
-</p>
