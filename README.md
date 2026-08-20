@@ -20,26 +20,49 @@ I enjoy turning ideas into working projects and exploring how technology can sol
 
 ## 🛠️ Tech Stack
 
-### Languages
+## 🛠️ Tech Stack
 
-`Python` `Java` `C` `JavaScript` `HTML` `CSS`
+### 💻 Programming Languages
 
-### Cybersecurity
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
-`SIEM` `Network Security` `Threat Detection` `Threat Intelligence` `Linux`
+### 🌐 Frontend Development
 
-### Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-`React` `Node.js` `REST APIs` `Git` `GitHub`
+### ⚙️ Backend Development
 
-### AI & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-`Artificial Intelligence` `Machine Learning` `NLP`
+### 🗄️ Databases
 
-### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
+</p>
 
-`Kali Linux` `Docker` `VS Code`
+### 🛡️ Cybersecurity
 
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,wireshark" />
+</p>
+
+### 🤖 AI & LLM Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,openai" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ---
 
 ## 🚀 Featured Projects
