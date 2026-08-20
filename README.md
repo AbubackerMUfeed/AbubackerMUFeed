@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-logo.png" width="300" alt="Abubacker Mufeed">
+</p>
+
 # 👋 Hi, I'm Abubacker Mufeed
 
 ### Cybersecurity | AI | Full-Stack Development
