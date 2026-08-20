@@ -71,17 +71,57 @@ I enjoy turning ideas into working projects and exploring how technology can sol
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🛡️ VigilantX
 
 **Autonomous Cyber Defense Framework**
 
-A cybersecurity platform focused on security monitoring, threat detection, SIEM capabilities, threat intelligence, AI-driven analysis, and automated response.
+A cybersecurity platform focused on SIEM, threat detection, threat intelligence, AI-driven analysis, and automated security response.
+
+**Focus:** Cybersecurity • SIEM • AI • Threat Detection
+
+</td>
+
+<td width="50%">
 
 ### 👁️ Orbisight
 
-A technology project focused on developing an intelligent solution for real-world problems.
+**Intelligent Technology Solution**
 
----
+A project focused on developing practical technology solutions for real-world problems through software and intelligent systems.
+
+**Focus:** AI • Software Development • Innovation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity Projects
+
+Practical cybersecurity experiments covering network analysis, security monitoring, vulnerability assessment, Linux security, and SIEM fundamentals.
+
+**Focus:** Kali Linux • Wireshark • SIEM • Network Security
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI & LLM Projects
+
+Projects exploring prompt engineering, LLM application development, AI workflows, and AI-assisted prototyping.
+
+**Focus:** AI • LLMs • Prompt Engineering • Automation
+
+</td>
+</tr>
+</table>
 
 ## 🎯 Current Goals
 
