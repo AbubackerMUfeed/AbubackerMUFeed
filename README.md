@@ -171,3 +171,26 @@ IoT-enabled baby monitoring system using environmental sensors and real-time ale
 ### 💭 Build. Break. Learn. Secure.
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/AbubackerMUFeed">
+    <img src="https://img.shields.io/badge/GitHub-AbubackerMUFeed-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/abubacker-mufeed-08a408387/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abubacker%20Mufeed-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  💡 Open to collaboration, projects, and learning opportunities.
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 Build • 🔐 Secure • 🤖 Innovate • 💡 Learn</b>
+</p>
