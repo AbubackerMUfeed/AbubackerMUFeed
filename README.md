@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Abubacker Mufeed
+<h1 align="center">
+  👋 Hi, I'm Abubacker Mufeed
+</h1>
 
-### Cybersecurity | AI | Full-Stack Development
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI+%26+LLM+Developer;Full-Stack+Developer;Building+VigilantX;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
 I'm a Computer Science engineering student passionate about building practical solutions in **Cybersecurity, Artificial Intelligence, and Full-Stack Development**.
 
