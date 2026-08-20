@@ -70,7 +70,6 @@ I enjoy turning ideas into working projects and exploring how technology can sol
 ---
 
 ## 🚀 Featured Projects
-
 ## 🚀 Featured Projects
 
 <table>
@@ -78,24 +77,21 @@ I enjoy turning ideas into working projects and exploring how technology can sol
 <td width="50%">
 
 ### 🛡️ VigilantX
-
 **Autonomous Cyber Defense Framework**
 
-A cybersecurity platform focused on SIEM, threat detection, threat intelligence, AI-driven analysis, and automated security response.
+AI-assisted cybersecurity platform for threat monitoring, incident analysis, SIEM integration, and security response workflows.
 
-**Focus:** Cybersecurity • SIEM • AI • Threat Detection
+**Cybersecurity • SIEM • AI • Threat Detection**
 
 </td>
 
 <td width="50%">
 
-### 👁️ Orbisight
+### 🤖 AI Copilot for Secure MPLS Operations
 
-**Intelligent Technology Solution**
+AI-powered copilot concept for secure MPLS network operations with predictive monitoring, anomaly detection, and operational recommendations.
 
-A project focused on developing practical technology solutions for real-world problems through software and intelligent systems.
-
-**Focus:** AI • Software Development • Innovation
+**AI • Networking • MPLS • Security**
 
 </td>
 </tr>
@@ -103,21 +99,45 @@ A project focused on developing practical technology solutions for real-world pr
 <tr>
 <td width="50%">
 
-### 🔐 Cybersecurity Projects
+### 🧠 NeuroShield
+**EEG-Based Biometric Authentication**
 
-Practical cybersecurity experiments covering network analysis, security monitoring, vulnerability assessment, Linux security, and SIEM fundamentals.
+Security concept using EEG brainwave signals for biometric authentication and AI-assisted neural signal analysis.
 
-**Focus:** Kali Linux • Wireshark • SIEM • Network Security
+**Cybersecurity • AI • Biometrics • EEG**
 
 </td>
 
 <td width="50%">
 
-### 🤖 AI & LLM Projects
+### 🧅 Tor Unveil
+**Tor Network Analysis Platform**
 
-Projects exploring prompt engineering, LLM application development, AI workflows, and AI-assisted prototyping.
+Cybersecurity solution designed to analyze Tor network activity and improve visibility into anonymized traffic using network analysis techniques.
 
-**Focus:** AI • LLMs • Prompt Engineering • Automation
+**Cybersecurity • Network Analysis • Tor**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⛽ Smart Fuel Meter
+
+Real-time fuel monitoring system designed for accurate fuel-level measurement with improved measurement accuracy and accessibility.
+
+**IoT • Embedded Systems • Sensors**
+
+</td>
+
+<td width="50%">
+
+### 👶 IoT Smart Cradle
+
+IoT-enabled baby monitoring system using environmental sensors and real-time alerts for continuous monitoring.
+
+**IoT • Sensors • Embedded Systems**
 
 </td>
 </tr>
