@@ -24,8 +24,6 @@ I enjoy turning ideas into working projects and exploring how technology can sol
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### 💻 Programming Languages
 
 <p>
@@ -69,7 +67,6 @@ I enjoy turning ideas into working projects and exploring how technology can sol
 </p>
 ---
 
-## 🚀 Featured Projects
 ## 🚀 Featured Projects
 
 <table>
@@ -181,10 +178,7 @@ IoT-enabled baby monitoring system using environmental sensors and real-time ale
     <img src="https://img.shields.io/badge/GitHub-AbubackerMUFeed-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/abubacker-mufeed-08a408387/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abubacker%20Mufeed-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
+>
 <p align="center">
   💡 Open to collaboration, projects, and learning opportunities.
 </p>
